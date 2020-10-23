@@ -1,4 +1,4 @@
-### Hi 🙋🏻‍, I'm AKHIL BHALL
+### Hi 🙋‍, I'm AKHIL BHALL
 I love to code on real time problems and always ready to explore and work on new technologies.
 _______________________________________________________________________________________________________________________________________________________________________________
 
