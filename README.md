@@ -17,3 +17,9 @@ ________________________________________________________________________________
 
 ### Profile Summary🎖️:
 <img src ="https://github-readme-stats.vercel.app/api?username=GyanuAB&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+__________________________________________________________________________________________________________________________________________________________________________________
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gyanuab&show_icons=true&locale=en&layout=compact" alt="gyanuab" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gyanuab&show_icons=true&locale=en" alt="gyanuab" /></p>
+
