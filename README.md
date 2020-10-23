@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hi 🙋‍, I'm AKHIL BHALL</b></h1>
-<h3 align="center">I'm Akhil,I love to code on real time problems and I always ready to explore and work on new technologies.</h3>
+<h3>I'm Akhil,I love to code on real time problems and I always ready to explore and work on new technologies.</h3>
 _______________________________________________________________________________________________________________________________________________________________________________
 
 ### 💻 Currently working on :
@@ -18,13 +18,11 @@ ________________________________________________________________________________
 <a href="https://kaggle.com/akhilverma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="akhilverma" height="30" width="40" /></a>
 <a href="https://instagram.com/akhilbhall" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="akhilbhall" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/akhilbhall" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="akhilbhall" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/gyanuab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="gyanuab" height="30" width="40" /></a>
-</p>
+<a href="https://codeforces.com/profile/gyanuab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="gyanuab" height="30" width="40" /></a></p>
 _________________________________________________________________________________________________________________________________________________________________________________
 
 ### Profile Summary🎖️:
 <img src ="https://github-readme-stats.vercel.app/api?username=GyanuAB&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gyanuab&show_icons=true&locale=en&layout=compact" alt="gyanuab" /></p>
-
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gyanuab&show_icons=true&bg_color=151515&locale=en&layout=compact" alt="gyanuab" />
 
